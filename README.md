@@ -1,1 +1,3 @@
-# dart-example
+# dart_example
+
+A sample command-line application.
